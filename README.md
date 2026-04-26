@@ -15,7 +15,6 @@
 * **Arquitectura:** Basada en componentes de AndroidX.
 
 ## 📸 Screenshots
-<img width="296" height="629" alt="Iberia_zen_exchange_maincomp" src="https://github.com/user-attachments/assets/0f285dd9-45de-4af5-bbe1-a31477e8e63b" />
-<img width="297" height="625" alt="Iberia_zen_exchange_main" src="https://github.com/user-attachments/assets/4ceb9e9f-2db5-4128-bbbb-dc863f3f9666" />
+<img width="296" height="629" alt="Iberia_zen_exchange_maincomp" src="https://github.com/user-attachments/assets/0f285dd9-45de-4af5-bbe1-a31477e8e63b" /><img width="297" height="625" alt="Iberia_zen_exchange_main" src="https://github.com/user-attachments/assets/4ceb9e9f-2db5-4128-bbbb-dc863f3f9666" />
 ---
 Desarrollado con 🌸 por Javi.
