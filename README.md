@@ -1,3 +1,4 @@
+<img width="296" height="629" alt="Iberia_zen_exchange_maincomp" src="https://github.com/user-attachments/assets/0f285dd9-45de-4af5-bbe1-a31477e8e63b" />
 # 🌸 IberiaZen Exchange
 
 **IberiaZen** es un conversor de divisas minimalista diseñado para viajeros entre España y Japón. Combina una estética Zen inspirada en la cultura japonesa con funcionalidad en tiempo real.
