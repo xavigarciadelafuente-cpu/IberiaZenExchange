@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IberiaZenExchange</string>
+    <string name="iberia_zen_nexchange">IBERIA-ZEN\nEXCHANGE</string>
+    <string name="tori">⛩️</string>
+    <string name="madrid">MADRID</string>
+    <string name="tokyo">TOKYO</string>
+    <string name="euros">EUROS (€)</string>
+    <string name="_0_00">0.00</string>
+    <string name="_0_000">¥ 0.00</string>
+    <string name="yenes">YENES (¥)</string>
+    <string name="_0">0</string>
+    <string name="_0_0000">0.00 €</string>
+    <string name="actualizando_datos">Actualizando datos...</string>
+    <string name="error_de_red_usando_tasa_guardada">Error de red - Usando tasa guardada</string>
+    <string name="tasa_de_mercado_1">Tasa de mercado: 1€ = ¥%1$s</string>
+</resources>
