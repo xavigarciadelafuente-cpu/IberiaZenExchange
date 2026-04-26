@@ -17,8 +17,8 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="src="https://github.com/user-attachments/assets/4ceb9e9f-2db5-4128-bbbb-dc863f3f9666"" width="300" />
-  <img src="src="https://github.com/user-attachments/assets/0f285dd9-45de-4af5-bbe1-a31477e8e63b"" width="300" />
+  <img src="https://github.com/user-attachments/assets/4ceb9e9f-2db5-4128-bbbb-dc863f3f9666" width="300" />
+  <img src="https://github.com/user-attachments/assets/0f285dd9-45de-4af5-bbe1-a31477e8e63b" width="300" />
 </p>
 ---
 Desarrollado con 🌸 por Javi.
